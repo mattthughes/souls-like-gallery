@@ -2,6 +2,75 @@
 
 Souls Like Gallery is a content sharing application built using a frontend libary called React along with a backend framework called Djanjo Restframework this application will allow users to share there favourite experiences and moments from the souls like genre users will be able to create, read, update and delete records on the application. This is the Frontend development pipeline which showcases how this application was made.
 
+- [Souls Like Gallery](#souls-like-gallery)
+    - [CONTENTS](#contents)
+    - [UX](#ux)
+        - [Strategy Plane](#the-strategy-plane)
+            - [Site Goals](#site-goals)
+            - [Epics](#epics)
+            - [User Stories](#user-stories-list)
+        - [Scope Plane](#the-scope-plane)
+            - [Features list](#features-list)
+        - [Skeleton Plane](#the-skeleton-plane)
+            - [Wireframes](#wireframes)
+                - [Home Wireframe](#games-list-wireframe)
+                - [Post Wireframe](#sign-up-wireframe)
+                - [Profile Wireframe](#login-wireframe)
+                - [Navigation Bar wireframe](#user-guides-wireframe)
+        - [Design plane](#design-plane)
+            - [Color Palette](#color-palette)
+            - [Typography](#typography)
+                - [Headings](#headingss)
+                - [Body](#body)
+                - [Trophy Title](#trophy-title)
+        - [Surface Plane](#surface-plane)
+            - [Key Features](#key-features)
+                - [Home Page](#home-page)
+                    - [Mobile Home page](#mobile-home-view)
+                    - [Desktop Home page](#desktop-home-view)
+                - [Navigation Bar](#navigation-bar)
+                    - [Mobile Navigation View](#mobile-navigation-bar-view)
+                    - [Desktop Navigation View](#desktop-navigation-bar-view)
+                - [Profile Page](#profile-page)
+                    - [Mobile Profile view](#mobile-profile-view)
+                    - [Desktop Games view](#desktop-profile-view)
+                - [Sign in](#sign-in-page)
+                    - [Mobile Sign in view](#mobile-sign-in-view)
+                    - [Desktop Sign up view](#desktop-sign-in-view)
+                - [Sign up](#sign-up-page)
+                    - [Mobile login view](#mobile-sign-up-page)
+                    - [Desktop login view](#desktop-sign-up-page)
+                - [Gallery](#gallery)
+                    - [Mobile Gallery view](#mobile-gallery-view)
+                    - [Desktop Gallery view](#desktop-gallery-view)
+                - [Posts](#posts)
+                    - [Mobile Post Detail view](#mobile-post-detail-view)
+                    - [Desktop Post Detail view](#desktop-post-detail-view)
+                    - [Mobile Add Post view](#mobile-add-post-view)
+                    - [Desktop Add Post view](#desktop-add-post-view)
+                    - [Mobile Edit Post view](#mobile-edit-post-view)
+                    - [Desktop Edit Post view](#desktop-edit-post-view)
+                    - [Mobile Delete Post view](#mobile-delete-post-view)
+                    - [Desktop Delete Post view](#desktop-delete-post-view)
+                - [Saved Post](#saved-post)
+                    - [Mobile Save Post Button](#mobile-save-post-button)
+                    - [Desktop Save Post Button](#desktop-save-post-button)
+                    - [Mobile Saved Posts page](#mobile-saved-posts-page)
+                    - [Desktop Saved Posts page](#desktop-saved-posts-page)
+                - [Favicon](#favicon)
+                    [Desktop favicon view](#desktop-favicon-view)
+    - [Technology](#technology)
+        - [Languages](#languages)
+            - [Frameworks & Tools](#frameworks--tools)
+    - [Deployment](#deployment)
+        - [Heroku Deployment](#heroku-deployment)
+        - [Running Application locally](#running-application-locally)
+        - [Fork Project](#fork-project)
+    - [Testing](#testing)
+    - [Credits](#credits)
+        - [Content](#content)
+        - [Code](#code)
+    - [Acknowledgements](#acknowledgements)
 
 
 ## Key features
@@ -41,13 +110,13 @@ This feature will allow users to log in to an existing account to gain access to
 
 #### Desktop Sign in view
 
-Sign up page
+### Sign up page
 
 This feature will highlight three features username password and confirm password upon a user entering these details providing the data entered is correct the user will be redirected to the login page with a message stating account created
 
-Mobile Sign up page
+#### Mobile Sign up page
 
-Desktop Sign up page
+#### Desktop Sign up page
 
 
 
@@ -91,3 +160,8 @@ This feature will allow users to click save on a specific post they find useful 
 #### Mobile Saved Posts page
 
 #### Desktop Saved Posts page
+
+
+#### Favicon
+
+#### Desktop Favicon view
